@@ -1,13 +1,6 @@
 {
   "employee": [
     {
-      "id": 2,
-      "name": "aditi",
-      "email": "aditigupta",
-      "phone": "7723583277788",
-      "active": ""
-    },
-    {
       "name": "aditi",
       "email": "aditi@123gmail.com",
       "phone": "32554532522",
@@ -20,6 +13,13 @@
       "phone": "86674665",
       "active": "",
       "id": 9
+    },
+    {
+      "name": "shyam",
+      "email": "shyam@gmail.com",
+      "phone": "3534598757",
+      "active": "",
+      "id": 10
     }
   ]
 }
