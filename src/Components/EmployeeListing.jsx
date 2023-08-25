@@ -64,7 +64,7 @@ const EmployeeListing = () => {
                 {empdata &&
                   empdata?.map((item,i) => (
                     <tr key={item.id}>
-                      <td>{i+1}</td>
+                      <td>{i+1} </td>
                       <td>{item.name}</td>
                       <td>{item.email}</td>
                       <td>{item.phone}</td>

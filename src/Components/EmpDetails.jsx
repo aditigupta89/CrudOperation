@@ -28,7 +28,7 @@ const EmpDetails = () => {
       <h1 style={{textDecoration:'underline'}}>Deatils</h1>
       {empdata && (
         <div>
-           <h2>The Employee name is : <b>{empdata.name}</b>  ({empdata.id})</h2>
+           <h2>The Employee name is : <b>{empdata.name}</b></h2>
           <h3>Contact Details</h3>
                         <h5>Email is : {empdata.email}</h5>
                         <h5>Phone is : {empdata.phone}</h5>
